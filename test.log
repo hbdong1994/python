@@ -1,0 +1,10 @@
+[2017-08-02 16:41:10,276][DEBUG] 	: start to logging 
+[2017-08-02 16:41:10,276][INFO] 	: Doing something
+[2017-08-02 16:41:10,276][ERROR] 	: this is error log
+[2017-08-02 16:41:10,276][WARNING] 	: this is warning log
+[2017-08-02 16:41:10,276][DEBUG] 	: Stop
+[2017-08-02 16:41:45,176][DEBUG] 	: start to logging 
+[2017-08-02 16:41:45,176][INFO] 	: Doing something
+[2017-08-02 16:41:45,176][ERROR] 	: this is error log
+[2017-08-02 16:41:45,176][WARNING] 	: this is warning log
+[2017-08-02 16:41:45,176][DEBUG] 	: Stop
