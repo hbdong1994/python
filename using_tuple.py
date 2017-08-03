@@ -15,7 +15,7 @@ tuple_dev = 1,2,shopList
 print 'the tuple is ', tuple_dev, 'len is ', len(tuple_dev)
 
 for item in tuple_dev:
-    if not isinstance(item, tuple): # detect double param is same obj
+    if not isinstance(item, tuple):  # detect double param is same obj
         print item
     else:
         print 'children tuple:',

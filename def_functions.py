@@ -6,4 +6,4 @@ def show_me(a, b):
     else:
         print a, 'is smaller than ', b
 
-show_me(5,7)
+show_me(5, 7)
